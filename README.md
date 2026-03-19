@@ -7,6 +7,17 @@
 
 - 📫 How to reach me **daniloctbarbosa@hotmail.com**
 
+## 📌 Featured Projects
+
+🔹 **Automação Google Maps → PDF**
+- Automação em Python com Selenium
+- Gera PDF com coordenadas geográficas
+- Foco em ganho de produtividade
+
+🔹 **Sistema de Papelaria (TCC)**
+- PHP + HTML/CSS
+- Cadastro e controle de produtos
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Danilo-Canali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Danilo-Canali" height="30" width="40" /></a>
