@@ -2,7 +2,6 @@
 
 ### A budding Php developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Danilo-Canali&label=Profile views&color=0e75b6&style=flat" alt="Danilo-Canali" /> </p>
 
 - 🌱 I'm currently learning **C#, css, php**
 
