@@ -3,7 +3,7 @@
 ### A budding Php developer
 
 
-- 🌱 I'm currently learning **C#, css, php**
+- 🌱 I'm currently learning **C#, python, php**
 
 - 📫 How to reach me **daniloctbarbosa@hotmail.com**
 
