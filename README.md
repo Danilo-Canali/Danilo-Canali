@@ -10,11 +10,13 @@
 ## 📌 Featured Projects
 
 🔹 **Automação Google Maps → PDF**
+https://github.com/Danilo-Canali/maps-coordinates-extractor-python/blob/a0c8b3661bef0d45e47b3ae63d1b56bd0d3186b1/README.md
 - Automação em Python com Selenium
 - Gera PDF com coordenadas geográficas
 - Foco em ganho de produtividade
 
 🔹 **Sistema de Papelaria (TCC)**
+https://github.com/Danilo-Canali/TCC/blob/f775814084e9ad2f5a42450d8a8b2dd4c3b2a5c2/README.md
 - PHP + HTML/CSS
 - Cadastro e controle de produtos
 
