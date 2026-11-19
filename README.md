@@ -1,34 +1,21 @@
-# Hi 👋, I'm Danilo Canali
+# Olá, eu sou o Danilo Canali 👋
 
-### A budding PHP developer
+Estudante de Análise e Desenvolvimento de Sistemas (Fatec) em busca de estágio ou vaga júnior em TI.
 
+- 🔧 Experiência com redes FTTH, sistemas internos (ERP) e suporte técnico
+- 💻 Desenvolvo com Python, PHP, C# e SQL
+- 📍 Presidente Prudente - SP
+- 📫 daniloctbarbosa5@gmail.com · LinkedIn: https://www.linkedin.com/in/danilocanali
 
-- 🌱 I'm currently learning **C#, python, php**
+## Projetos em destaque
 
-- 📫 How to reach me **daniloctbarbosa@hotmail.com**
-
-## 📌 Featured Projects
-
-🔹 **Automação Google Maps → PDF**
-
+### Extrator de Coordenadas do Google Maps (Python + Selenium)
+Lê links do Google Maps e gera um CSV com latitude e longitude, eliminando a cópia manual.
 https://github.com/Danilo-Canali/maps-coordinates-extractor-python
 
-- Automação em Python com Selenium
-- Gera PDF com coordenadas geográficas
-- Foco em ganho de produtividade
-
-🔹 **Sistema de Papelaria (TCC)**
-
+### Sistema de Gestão de Papelaria (PHP + MySQL)
+Sistema web para cadastro e controle de produtos (TCC).
 https://github.com/Danilo-Canali/TCC
 
-- PHP + HTML/CSS
-- Cadastro e controle de produtos
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://github.com/Danilo-Canali](https://www.linkedin.com/in/danilocanali/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Danilo-Canali" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a></p>
-
+## Tecnologias
+Python · PHP · C# · SQL (MySQL) · HTML · CSS
